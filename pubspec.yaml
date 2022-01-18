@@ -1,0 +1,13 @@
+name: duration_iso_parser
+description: Package to parse a duration from ISO 8601 string.
+version: 0.1.0
+repository: https://github.com/Innim/dart_duration_iso_parser
+issue_tracker: https://github.com/Innim/dart_duration_iso_parser/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dev_dependencies:
+  innim_lint: ^0.1.3
+  test: ^1.16.0
+
