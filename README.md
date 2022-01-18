@@ -1,5 +1,10 @@
 # duration_iso_parser
 
+
+[![pub package](https://img.shields.io/pub/v/duration_iso_parser)](https://pub.dartlang.org/packages/duration_iso_parser)
+[![Analyze & Test](https://github.com/Innim/dart_duration_iso_parser/actions/workflows/dart.yml/badge.svg?branch=main)](https://github.com/Innim/dart_duration_iso_parser/actions/workflows/dart.yml)
+[![innim lint](https://img.shields.io/badge/style-innim_lint-40c4ff.svg)](https://pub.dev/packages/innim_lint)
+
 Package for parsing [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) durations string 
 to the [`Duration`](https://api.dart.dev/stable/2.15.1/dart-core/Duration-class.html) object.
 
