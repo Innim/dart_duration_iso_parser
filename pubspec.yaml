@@ -1,6 +1,6 @@
 name: duration_iso_parser
-description: Package to parse a duration from ISO 8601 string.
-version: 0.1.0
+description: Package to parse a duration from ISO 8601 string (like P1M, PT15M, P2Y3W4DT5H).
+version: 0.1.0+1
 repository: https://github.com/Innim/dart_duration_iso_parser
 issue_tracker: https://github.com/Innim/dart_duration_iso_parser/issues
 
